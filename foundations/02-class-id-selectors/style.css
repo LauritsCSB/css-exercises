@@ -1,0 +1,20 @@
+.paraclass {
+    background-color: #FFCCCC;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 19px;
+}
+
+.paraclassLarge {
+    font-size: 24px;
+}
+
+#blueTextLargeFont {
+    font-size: 36px;
+    color: blue;
+}
+
+#lastID {
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: 24px;
+}
